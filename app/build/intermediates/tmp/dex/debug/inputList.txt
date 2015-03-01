@@ -1,0 +1,4 @@
+C:\Users\Cameron\AndroidStudioProjects\MemoryMed\app\build\intermediates\classes\debug
+C:\Users\Cameron\AndroidStudioProjects\MemoryMed\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a76e0856706e1b0e5262e897e6e59c8e5697ddfd.jar
+C:\Users\Cameron\AndroidStudioProjects\MemoryMed\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-ff1b462f2abdd484496b43113271139b72feca0c.jar
+C:\Users\Cameron\AndroidStudioProjects\MemoryMed\app\build\intermediates\pre-dexed\debug\classes-25c49fa6402258d733c8f283741d51a8e28ca1f5.jar
