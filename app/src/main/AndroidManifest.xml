@@ -11,7 +11,7 @@
 
 
     <uses-sdk
-        android:minSdkVersion="19"
+        android:minSdkVersion="16"
         android:targetSdkVersion="21" />
 
     <application
@@ -28,9 +28,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="Calendar"
-            android:parentActivityName=".MainActivity"></activity>
+
         
         <activity
             android:name="Doctor"
@@ -44,9 +42,7 @@
         <activity
             android:name="AddMedication"
             android:parentActivityName=".Meds"></activity>
-        <activity 
-            android:name="CalendarEventActivity"
-            android:parentActivityName=".Calendar"></activity>
+
 
         <service android:name="NotifyService"></service>
         <service android:name="TakeMedNowService"></service>
